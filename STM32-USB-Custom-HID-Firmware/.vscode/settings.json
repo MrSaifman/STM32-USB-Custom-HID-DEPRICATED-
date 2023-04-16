@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "usb_device.h": "c"
+    },
+    "python.analysis.extraPaths": [
+        "./path-to-your-code",
+        "./PyGObject-3.44.1"
+    ]
+}

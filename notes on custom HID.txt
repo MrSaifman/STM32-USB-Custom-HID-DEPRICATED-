@@ -1,0 +1,11 @@
+USB_Device/App/usbd_desc.c
+ - You can see the device descriptor at the bottom
+ - SBD_MAX_NUM_CONFIGURATION number of configurations, 1 by default
+ 
+Middlewares/ST/STM32_USB_Device_Library/Class/CustomHID/Src/usbd_customhid.c
+
+ - USBD_CUSTOM_HID_CfgDesc contains the descriptor for the configuration
+
+USB_Device/App/usbd_custom_hid_if.c
+
+ - CUSTOM_HID_ReportDesc_FS contains the HID report descriptor
