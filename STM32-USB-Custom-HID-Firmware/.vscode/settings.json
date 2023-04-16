@@ -1,7 +1,8 @@
 {
     "files.associations": {
         "*.ejs": "html",
-        "usb_device.h": "c"
+        "usb_device.h": "c",
+        "lp5024_driver.h": "c"
     },
     "python.analysis.extraPaths": [
         "./path-to-your-code",

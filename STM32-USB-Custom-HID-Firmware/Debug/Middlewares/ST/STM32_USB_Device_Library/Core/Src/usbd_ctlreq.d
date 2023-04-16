@@ -28,6 +28,8 @@ Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.o: \
  ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_exti.h \
  ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_flash.h \
  ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_flash_ex.h \
+ ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_i2c.h \
+ ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_i2c_ex.h \
  ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_pcd.h \
  ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_ll_usb.h \
  ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_pcd_ex.h \
@@ -35,7 +37,6 @@ Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.o: \
  ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_pwr_ex.h \
  ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_uart.h \
  ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_uart_ex.h \
- ../Core/Inc/main.h \
  ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h \
  ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_core.h \
  ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h \
@@ -68,6 +69,8 @@ Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.o: \
 ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_exti.h:
 ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_flash.h:
 ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_flash_ex.h:
+../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_i2c.h:
+../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_i2c_ex.h:
 ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_pcd.h:
 ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_ll_usb.h:
 ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_pcd_ex.h:
@@ -75,7 +78,6 @@ Middlewares/ST/STM32_USB_Device_Library/Core/Src/usbd_ctlreq.o: \
 ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_pwr_ex.h:
 ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_uart.h:
 ../Drivers/STM32G0xx_HAL_Driver/Inc/stm32g0xx_hal_uart_ex.h:
-../Core/Inc/main.h:
 ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h:
 ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_core.h:
 ../Middlewares/ST/STM32_USB_Device_Library/Core/Inc/usbd_ioreq.h:
